@@ -21,7 +21,7 @@ title                    : "Caique Oliveira"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Caique Oliveira"
-description              : "Quantitative Analyst & Mathematical Modeler"
+description              : "Quantitative Analyst & Mathematical Modeler & Operational Research."
 url                      : "https://caiquegoliveira.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Caique Oliveira"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mathematical modeling and quantitative analysis."
+  bio              : "Mathematical modeling, quantitative analysis and Operational Research."
   location         : "Brazil"
   email            : "caique.guimaraesdeoliveira306@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
