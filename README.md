@@ -12,7 +12,7 @@ I don't just fit curves; I seek to understand the underlying structure of data t
 
 ## Mathematical & Computational Toolkit
 - **Mathematics:** Linear Algebra (Axler), Real Analysis, Metric Spaces, Measure Theory.
-- **Programming:** Python, NumPy, SciPy, Pandas, LaTeX (for rigorous mathematical documentation).
+- **Programming:** Python, NumPy, Pandas, LaTeX (for rigorous mathematical documentation).
 - **Modeling:** Regression, Statistical Inference, Clustering Algorithms, Heuristics.
 
 ## Featured Projects
