@@ -7,12 +7,11 @@ I don't just fit curves; I seek to understand the underlying structure of data t
 
 ## Focus Areas
 - **Combinatorial and Continuous Optimization**
-- **Spectral Graph Theory** (Clustering, Laplacians)
 - **Statistical Modeling and Inference**
 - **Operations Research**
 
 ## Mathematical & Computational Toolkit
-- **Mathematics:** Linear Algebra (Axler), Real Analysis, Metric Spaces, Graph Theory, Calculus of Variations.
+- **Mathematics:** Linear Algebra (Axler), Real Analysis, Metric Spaces, Measure Theory.
 - **Programming:** Python, NumPy, SciPy, Pandas, LaTeX (for rigorous mathematical documentation).
 - **Modeling:** Regression, Statistical Inference, Clustering Algorithms, Heuristics.
 
@@ -39,6 +38,6 @@ Currently deepening my studies in advanced mathematics for application in comple
 My personal research topics include:
 - Fluid Dynamics and the Navier-Stokes Equations.
 - Non-Linear Dynamical Systems and Chaos Theory.
-- Measure Theory and Functional Analysis.
+- Functional Analysis and Calculus of Variations.
 
 *Mathematical documentation and papers written in LaTeX.*
