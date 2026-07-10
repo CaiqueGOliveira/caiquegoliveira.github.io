@@ -5,6 +5,12 @@ categories:
   - Blog
 ---
 
-# A mathematical model that reorganizes inventory to reduce search time while preserving operational constraints.
+*A mathematical optimization model that reorganizes inventory based on demand and product affinity.*
 
-Soon...
+Warehouses are typically organized by product demand. Although intuitive, this approach ignores how customers actually buy: orders consist of groups of products, not individual items.
+
+As a result, employees repeatedly walk long distances between parts that are frequently purchased together. Each trip adds only a few extra seconds, but over thousands of orders these inefficiencies become a measurable operational cost.
+
+This paper presents a mathematical optimization model that combines demand frequency with product affinity to generate a more efficient shelf layout. Applied to the experimental dataset, the proposed method reduced retrieval cost by 29.2%.
+
+[→ Read the full paper](../assets/papers/warehouse-optimization.pdf)
